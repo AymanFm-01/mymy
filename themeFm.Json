@@ -1,11 +1,9 @@
 [{
 	"author" : "AymanFm-01", 
 	"name" : "ThemeFm", 
-	"keyWords" : "keyword1,keyword2", 
 	"version" : "2.52", 
 	"dofusVersion" : "2.52", 
 	"description" : "ThemeFm.", 
 	"url" : "https://github.com/AymanFm-01/mymy/raw/master/themeFm.zip", 
-	"previewUrl" : "https://github.com/AymanFm-01/mymy/raw/master/themeFm.JPG", 
 	"creationDate" : "20/6/2019", 
 	"modificationDate" : "26/06/2019"}]
