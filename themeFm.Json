@@ -1,9 +1,11 @@
 [{
 	"author" : "AymanFm-01", 
-	"name" : "ThemeFm", 
-	"version" : "2.52", 
+	"name" : "AymanFm-01", 
+	"keyWords" : "AymanFm-01", 
+	"version" : "5.1.0", 
 	"dofusVersion" : "2.52", 
-	"description" : "ThemeFm.", 
-	"url" : "https://github.com/AymanFm-01/mymy/blob/master/themeFm.zip", 
-	"creationDate" : "20/6/2019", 
-	"modificationDate" : "26/06/2019"}]
+	"description" : "AymanFm-01", 
+	"url" : "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/darkOpacity.zip", 
+	"previewUrl" : "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/darkOpacity.jpg", 
+	"creationDate" : "01/08/2017", 
+	"modificationDate" : "04/07/2019"}]
